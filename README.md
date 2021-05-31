@@ -21,9 +21,9 @@ Email: hyo-jeong.kim@hotmail.com
 > * 한화S&C 머신러닝, 딥러닝 강사
 > * 신한금융, 신세계I&C 로보틱스프로세스자동화 강사
 				
-## 사용가능 한 기술
+## 사용가능한 기술
 ~~~~
-SQL, Python, R, Tableau, Power BI
+SQL, Java, Python, R, Tableau, Power BI
 ~~~~
 ## 프로젝트 수행경험
 1. TREC (Text Retrieval Conference)
