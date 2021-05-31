@@ -44,7 +44,7 @@ SQL, Java, Python, R, Tableau, Power BI
 
 5. DPSRS (Denver Public School Retirement System) 
 > * 덴버공립학교 은퇴시스템 연금분석
-> > * 경영대 (Business School) / University of Colorado / 2004-2005 / 데이터분석
+> * 경영대 (Business School) / University of Colorado / 2004-2005 / 데이터분석
 
 6. Pre-Admisison Counselor
 > * 미국고등학생들 적성점수에 따른 전공, 대학추천시스템 개발	
