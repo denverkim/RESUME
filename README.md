@@ -27,20 +27,25 @@ SQL, Java, Python, R, Tableau, Power BI
 ~~~~
 ## 프로젝트 수행경험
 1. TREC (Text Retrieval Conference)
-> * 미국국립표준기술원 (NIST), 미국국방부 (U.S. Dept of Defense) / 오레곤의대 (Oregon Health and Science University) / 2006 / 유전학분야 연관성판정단
 > * 의료텍스트마이닝 대회에 참가한 팀의 제출물 평가
+> * 미국국립표준기술원 (NIST), 미국국방부 (U.S. Dept of Defense)지원 / 오레곤의대 (Oregon Health and Science University) / 2006 / 유전학분야 연관성판정단
+
 2. INIA (Integrated Neuroscience Initiative on Alcoholism)
-> * 미국국립보건원 (NIH) / 콜로라도 의대 (University of Colorado Health Science Center) / 2004-2005 / 프로그래머
 > * 알콜리즘연구에서 유전자변형동물 데이터베이스 구축
+> * 미국국립보건원 (NIH) / 콜로라도 의대 (University of Colorado Health Science Center) / 2004-2005 / 프로그래머
+
 3. eLearning maps
-> * 공대 (College of Engineering) / 콜로다도대학교 (University of Colorado Denver) / 2010-2012 / 프로그래머
 > * 인지능력향상을 위한 웹어플리케이션 개발
+> * 공대 (College of Engineering) / 콜로다도대학교 (University of Colorado Denver) / 2010-2012 / 프로그래머
+
 4. CBMS (Colorado Benefit Management Systems)
-> * 경영대 (Business School) / 콜로라도대학교 (University of Colorado) / 2007-2009 / 데이터분석
 > * 콜로라도 주정부 정보시스템 구축실패케이스 사례분석
+> * 경영대 (Business School) / 콜로라도대학교 (University of Colorado) / 2007-2009 / 데이터분석
+
 5. DPSRS (Denver Public School Retirement System) 
-> * 경영대 (Business School) / University of Colorado / 2004-2005 / 데이터분석
 > * 덴버공립학교 은퇴시스템 연금분석
+> > * 경영대 (Business School) / University of Colorado / 2004-2005 / 데이터분석
+
 6. Pre-Admisison Counselor
-> * 경영대 (College of Business) / 네바다대학 (University of Nevada Reno) / 2000-2001 / 프로그래머
 > * 미국고등학생들 적성점수에 따른 전공, 대학추천시스템 개발	
+> * 경영대 (College of Business) / 네바다대학 (University of Nevada Reno) / 2000-2001 / 프로그래머
