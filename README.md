@@ -1,4 +1,7 @@
 # 김효정	박사
+
+
+![image]([Resized]USFSM_KIM.jpg)<br>
 Tel: 010-7295-8242<br>
 Email: hyo-jeong.kim@hotmail.com
 
@@ -49,3 +52,13 @@ SQL, Java, Python, R, Tableau, Power BI
 6. Pre-Admisison Counselor
 > * 미국고등학생들 적성점수에 따른 전공, 대학추천시스템 개발	
 > * 경영대 (College of Business) / 네바다대학 (University of Nevada Reno) / 2000-2001 / 프로그래머
+
+## 연구경력
+* The Use of Generalized Audit Software by Egyptian External Auditors: The Effect of Audit Software Features,201612,Journal of Applied Accounting Research,https://www.emerald.com/insight/content/doi/10.1108/JAAR-10-2015-0079/full/html,제1저자,SCOPUS ISSN 09675426
+* Information Technology Acceptance in the Internal Audit Profession: Impact of Technology Features and Technology Complexity,200907,International Journal of Accounting Information Systems,https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems,제1저자,SSCI
+ISSN 1467-0895, IF 2.088
+* eLmaps: An Educational Software Application Based on Principles of Cognitive Linguistics and Cognitive Science,201312,International Journal of Technology, Knowledge & Society,https://cgscholar.com/bookstore/works/elmaps-an-educational-software-application-based-on-principles-of-cognitive-linguistics-and-cognitive-science,공동연구,ISSN 1832-3669
+* Unmet Public Expectation to Government IT Project: Colorado Benefit Management Systems,201012,공동연구,
+International Journal of Public Information Systems,https://aaahq.org/AIS/Research,International Journal of Public Information Systems,http://www.ijpis.net/index.php/IJPIS/article/view/76,Instructional Materials for Benford's Law: Conceptual Background and Guided Software Instruction with Supporting Teaching Note,201112,제1저자
+* The Effect of Software Features on Software Adoption and Training in the Audit Profession,201207,University of Colorado Denver,http://tinyurl.com/y2bae27b,단독연구,
+* 企業成果에 影響을 미치는 戰略的 物流能力에 관한 實證的 硏究,199702,한국외국어대학교,https://library.hufs.ac.kr/#/search/detail/204158,단독연구
