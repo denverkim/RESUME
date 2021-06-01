@@ -5,25 +5,6 @@
 Tel: 010-7295-8242<br>
 Email: hyo-jeong.kim@hotmail.com
 
-## 학력
-> * 콜로라도 대학교	전산정보학박사
-> * 네바다 대학교	M.B.A. (컴퓨터정보)
-
-## 대학강의
-> * 서울과학기술대학교	경영대 머신러닝, 데이터마이닝 강사
-> * 서울대학교	경영대 웹프로그래밍 시간강사
-> * 남플로리다대학교	경영대 초빙교수
-> * 알칸소대학교	경영대 초빙교수
-> * 덴버대학교	데이터분석, 프로그래밍	강사
-> * 콜로라도대학교	정보시스템개론	강사
-> * 덴버메트로폴리탄주립대학	컴퓨터개론, 정보시스템개론	강사
-			
-## 기업강의
-> * 한국경영인증원, 서울산업진흥원	빅데이터, 인공지능 강사
-> * 멀티캠퍼스	빅데이터, 인공지능 강사
-> * 한화S&C 머신러닝, 딥러닝 강사
-> * 신한금융, 신세계I&C 로보틱스프로세스자동화 강사
-				
 ## 사용가능한 기술
 ~~~~
 SQL, Java, Python, R, Tableau, Power BI
@@ -62,3 +43,22 @@ ISSN 1467-0895,IF 2.088
 * Instructional Materials for Benford's Law: Conceptual Background and Guided Software Instruction with Supporting Teaching Note,201112,A Compendium of Classroom Cases and Tools for AIS Applications,https://aaahq.org/AIS/Research, 제1저자
 * The Effect of Software Features on Software Adoption and Training in the Audit Profession,201207,University of Colorado Denver,http://tinyurl.com/y2bae27b, 단독연구
 * 企業成果에 影響을 미치는 戰略的 物流能力에 관한 實證的 硏究,199702,한국외국어대학교,https://library.hufs.ac.kr/#/search/detail/204158, 단독연구
+
+## 기업강의
+> * 한국경영인증원, 서울산업진흥원	빅데이터, 인공지능 강사
+> * 멀티캠퍼스	빅데이터, 인공지능 강사
+> * 한화S&C 머신러닝, 딥러닝 강사
+> * 신한금융, 신세계I&C 로보틱스프로세스자동화 강사
+
+## 대학강의
+> * 서울과학기술대학교	경영대 머신러닝, 데이터마이닝 강사
+> * 서울대학교	경영대 웹프로그래밍 시간강사
+> * 남플로리다대학교	경영대 초빙교수
+> * 알칸소대학교	경영대 초빙교수
+> * 덴버대학교	데이터분석, 프로그래밍	강사
+> * 콜로라도대학교	정보시스템개론	강사
+> * 덴버메트로폴리탄주립대학	컴퓨터개론, 정보시스템개론	강사
+
+## 학력
+> * 콜로라도 대학교	전산정보학박사
+> * 네바다 대학교	M.B.A. (컴퓨터정보)
