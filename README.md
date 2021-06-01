@@ -1,6 +1,5 @@
 # 김효정
 
-
 ![image]([Resized]USFSM_KIM.jpg)<br>
 Tel: 010-7295-8242<br>
 Email: hyo-jeong.kim@hotmail.com
