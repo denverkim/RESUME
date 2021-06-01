@@ -59,6 +59,6 @@ SQL, Java, Python, R, Tableau, Power BI
 ISSN 1467-0895,IF 2.088
 * eLmaps: An Educational Software Application Based on Principles of Cognitive Linguistics and Cognitive Science,201312,International Journal of Technology, Knowledge & Society,https://cgscholar.com/bookstore/works/elmaps-an-educational-software-application-based-on-principles-of-cognitive-linguistics-and-cognitive-science, 공동연구,ISSN 1832-3669
 * Unmet Public Expectation to Government IT Project: Colorado Benefit Management Systems,201012,International Journal of Public Information Systems,http://www.ijpis.net/index.php/IJPIS/article/view/76, 
-* Instructional Materials for Benford's Law: Conceptual Background and Guided Software Instruction with Supporting Teaching Note,201112 ,제1저자
-* The Effect of Software Features on Software Adoption and Training in the Audit Profession,201207,University of Colorado Denver,http://tinyurl.com/y2bae27b,단독연구,
-* 企業成果에 影響을 미치는 戰略的 物流能力에 관한 實證的 硏究,199702,한국외국어대학교,https://library.hufs.ac.kr/#/search/detail/204158,단독연구
+* Instructional Materials for Benford's Law: Conceptual Background and Guided Software Instruction with Supporting Teaching Note,201112,A Compendium of Classroom Cases and Tools for AIS Applications,https://aaahq.org/AIS/Research, 제1저자
+* The Effect of Software Features on Software Adoption and Training in the Audit Profession,201207,University of Colorado Denver,http://tinyurl.com/y2bae27b, 단독연구
+* 企業成果에 影響을 미치는 戰略的 物流能力에 관한 實證的 硏究,199702,한국외국어대학교,https://library.hufs.ac.kr/#/search/detail/204158, 단독연구
