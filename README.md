@@ -1,4 +1,4 @@
-# 김효정	박사
+# 김효정
 
 
 ![image]([Resized]USFSM_KIM.jpg)<br>
